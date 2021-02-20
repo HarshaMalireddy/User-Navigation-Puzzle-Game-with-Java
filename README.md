@@ -1,4 +1,4 @@
-# Java GUI Game
+# User Interactive Java GUI Game
 
 - Coded in Java a GUI game where you jump from one floating island to another while avoiding dragons until the end zone 
 - GUI built using the Java Swing and AWT packages with components like JFrame, JPanel, paintComponent among others
